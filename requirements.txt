@@ -1,4 +1,3 @@
 pickle
 warnings
-sklearn
-flask
+scikit-learn
